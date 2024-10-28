@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Manim cache files
+media/
+*.mov
+*.mp4
+*.webm
+*.png
+*.gif
+*.svg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller
+*.spec
+
+# VS Code
+.vscode/
+
+# macOS and Linux
+.DS_Store
